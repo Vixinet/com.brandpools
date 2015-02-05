@@ -1,0 +1,11 @@
+body {
+	margin-top : 70px;
+}
+
+.navbar-brand {
+	padding : 5px;
+}
+
+.navbar-brand img {
+	max-height : 100%;
+}
